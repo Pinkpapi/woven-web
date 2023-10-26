@@ -1,0 +1,97 @@
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 1px;
+  box-shadow: 2px 8px 14px 12px #8989890a;
+  width: 1512px;
+  height: 70px;
+}
+.logo {
+  display: flex;
+  list-style: none;
+  margin-top: 20px;
+  margin-left: 57px;
+}
+.nav {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+  margin-top: 1px;
+}
+.sign {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+  margin-right: 160px;
+}
+h1 {
+  font-size: 64px;
+  width: 594px;
+  height: 328px;
+}
+p {
+  font-size: 130%;
+}
+.packs {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.title {
+  margin-top: auto;
+  margin-left: 59px;
+  margin-bottom: 1750px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  padding: 0;
+  margin-bottom: 1350px;
+  margin-right: 100px;
+}
+.contact {
+  display: flex;
+  list-style: none;
+  gap: 45px;
+  font-size: 170%;
+  font-family: "Gorditas";
+}
+.homepage {
+  width: 110%;
+}
+button {
+  background: #79242f;
+  color: aliceblue;
+  padding: 8px;
+  border-color: #79242f;
+  font-size: 15px;
+  border-radius: 8px;
+}
+.sponsors {
+  margin-bottom: none;
+  display: flex;
+  margin-bottom: 1000px;
+  width: Hug (842.64px);
+  height: Hug (46px);
+  top: 942px;
+  left: 120px;
+  gap: 24px;
+}
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(233, 251, 249, 0) 0%,
+    #e9fbf9 55.73%,
+    #fff5f6 100%
+  );
+  width: 1512px;
+  height: 925px;
+  top: 100px;
+}
