@@ -171,9 +171,24 @@ button {
   top: -86px;
   right: 12px;
 }
+.OurServe {
+  background: linear-gradient(
+    241.47deg,
+    #ccfffa -2.96%,
+    #fffcf5 44.27%,
+    #ffe5e9 89.58%
+  );
+}
+.serve {
+  width: Hug (1, 258px);
+  height: Hug (370px);
+  top: 230px;
+  left: 124px;
+  gap: 16px;
+}
 .OurServices {
   width: 100%;
-  height: Hug (2, 272px);
+  height: Hug (2, 285px);
   margin-top: 130px;
 }
 .Services {
@@ -181,19 +196,43 @@ button {
   justify-content: space-between;
 }
 .h4div {
-  margin-left: 120px;
+  margin-left: 160px;
+  margin-top: 50px;
 }
 .pdiv {
   margin-right: 80px;
-  margin-top: -40px;
+  margin-top: 19px;
+}
+.vcp {
+  margin-left: 60px;
+  width: Hug (313px);
+  height: Hug (244px);
+  gap: 10px;
+}
+.Virtual {
+  width: Hug (313px);
+  height: Hug (60px);
+  gap: 5px;
 }
 .h4 {
   font-size: 50px;
   text-align: center;
+  color: #0b3c35;
+}
+.spd {
+  margin-right: 50px;
+  width: Hug (313px);
+  height: Hug (244px);
+  gap: 10px;
 }
 .serve {
   display: flex;
   justify-content: space-between;
+}
+.servicep {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  margin-top: -5px;
 }
 h2 {
   font-size: 40px;
