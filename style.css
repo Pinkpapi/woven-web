@@ -172,7 +172,7 @@ button {
   right: 12px;
 }
 .OurServices {
-  width: 100%
+  width: 100%;
   height: Hug (2, 272px);
   margin-top: 130px;
 }
@@ -180,10 +180,10 @@ button {
   display: flex;
   justify-content: space-between;
 }
-.h4div{
+.h4div {
   margin-left: 120px;
 }
-.pdiv{
+.pdiv {
   margin-right: 80px;
   margin-top: -40px;
 }
@@ -191,7 +191,7 @@ button {
   font-size: 50px;
   text-align: center;
 }
-.serve{
+.serve {
   display: flex;
   justify-content: space-between;
 }
